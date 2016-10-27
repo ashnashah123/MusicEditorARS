@@ -11,7 +11,6 @@ import java.util.List;
 public class Piece {
   // The beats in this piece of music.
   private List<Beat> beats;
-  //private final ScaleType type;
 
   public Piece() {
     this.beats = new ArrayList<Beat>();
